@@ -1,1 +1,1 @@
-https://beginners-lock.github.io/flexbox-and-grid/index.html
+https://beginners-lock.github.io/flexbox-and-grid/
